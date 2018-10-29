@@ -1,0 +1,16 @@
+C:\Users\KostF\source\repos\KPSushiBar\KPSushiBar\bin\Debug\KPSushiBar.exe.config
+C:\Users\KostF\source\repos\KPSushiBar\KPSushiBar\bin\Debug\KPSushiBar.exe
+C:\Users\KostF\source\repos\KPSushiBar\KPSushiBar\bin\Debug\KPSushiBar.pdb
+C:\Users\KostF\source\repos\KPSushiBar\KPSushiBar\obj\Debug\KPSushiBar.Form1.resources
+C:\Users\KostF\source\repos\KPSushiBar\KPSushiBar\obj\Debug\KPSushiBar.Properties.Resources.resources
+C:\Users\KostF\source\repos\KPSushiBar\KPSushiBar\obj\Debug\KPSushiBar.Авторизация.resources
+C:\Users\KostF\source\repos\KPSushiBar\KPSushiBar\obj\Debug\KPSushiBar.Главное_меню.resources
+C:\Users\KostF\source\repos\KPSushiBar\KPSushiBar\obj\Debug\KPSushiBar.Заказ_оборудования.resources
+C:\Users\KostF\source\repos\KPSushiBar\KPSushiBar\obj\Debug\KPSushiBar.Заказы_клиентов.resources
+C:\Users\KostF\source\repos\KPSushiBar\KPSushiBar\obj\Debug\KPSushiBar.Машины.resources
+C:\Users\KostF\source\repos\KPSushiBar\KPSushiBar\obj\Debug\KPSushiBar.Сотрудники.resources
+C:\Users\KostF\source\repos\KPSushiBar\KPSushiBar\obj\Debug\KPSushiBar.csproj.GenerateResource.Cache
+C:\Users\KostF\source\repos\KPSushiBar\KPSushiBar\obj\Debug\KPSushiBar.csproj.CoreCompileInputs.cache
+C:\Users\KostF\source\repos\KPSushiBar\KPSushiBar\obj\Debug\KPSushiBar.exe
+C:\Users\KostF\source\repos\KPSushiBar\KPSushiBar\obj\Debug\KPSushiBar.pdb
+C:\Users\KostF\source\repos\KPSushiBar\KPSushiBar\obj\Debug\KPSushiBar.csprojResolveAssemblyReference.cache
